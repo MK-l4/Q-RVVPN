@@ -18,10 +18,9 @@
 #-------------RVPN----------#
 
 
-vless://5727f9a4-42d9-4569-8016-0e1098da37ec@78.17.96.242:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=sub.salasnik.fun&pbk=wv7S1v5S5LhQmVxMhEUXWMnaXYYFXPDSTeHjoFdlujA&sid=16534b48db0c07#%F0%9F%87%AB%F0%9F%87%AE%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20by%20RVPN
+vless://4b5bada6-0724-4cb1-8105-04737c8a7a3e@91.224.87.152:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.vseinstrumenti.ru&fp=firefox&pbk=ZKLerhOtbZ9D1Kvfz9w9LPGhYTQmfGs98HthyAy85AQ&sid=503131904226bcad&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20by%20RVPN
 
-vless://5727f9a4-42d9-4569-8016-0e1098da37ec@78.17.96.242:2083?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=sub.salasnik.fun&pbk=6YbUHTSD0SIIGMl_QHHGJZdlCt22KbEK6hizYKY2Tyg&sid=379ae0567f33cc34#%F0%9F%87%AB%F0%9F%87%AEGemini%20by%20RVPN%20%F0%9F%92%AB
-
+vless://e1eca5fd-25a0-4173-9337-1e17f6d6fc0e@31.43.179.196:443?encryption=none&security=tls&sni=newmama2.baklajann.ru&alpn=h3%2C%20h2%2C%20http%2F1.1&fp=chrome&type=xhttp&mode=auto&host=newmama2.baklajann.ru&path=%2F&extra=%7B%22mode%22%3A%22packet-up%22%2C%22path%22%3A%22%2F%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A4.0%2C%22maxConcurrency%22%3A0.0%2C%22cMaxReuseTimes%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0.0%7D%7D&fragment=3%2C1%2Ctlshello%2C0-5&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22length%22%3A%223%22%2C%22packets%22%3A%22tlshello%22%2C%22maxSplit%22%3A%220-5%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20by%20RVPN
 #----------Q • VPN ----------#
 
 
